@@ -18,7 +18,7 @@ An internet connection is required to fetch the sudoku puzzle from the sugoku AP
 
 # Credits
 
-The sugoku API is provided by sugoku.herokuapp.com.
+The sugoku API is provided by @sugoku.herokuapp.com.
 
 # Support
 
